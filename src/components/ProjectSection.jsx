@@ -29,15 +29,14 @@ const ProjectSection = () => {
       projectTitle: 'One Plus',
       projectDescription: `Introducing my OnePlus Clone Project! 📱🖥️ Crafted to refine my front-end skills, this clone replicates the sleek design and functionality of the OnePlus website. Developed using HTML, CSS, Bootstrap, and JavaScript, it's a showcase of my web development prowess. Open to freelance opportunities, this project reflects my commitment to delivering high-quality projects. Explore the clone and connect for inquiries or collaborations!`,
       creatorLink: 'https://github.com/vivekhjtv/vivek-portfolio', // Replace with actual creator's link
-      creatorName: 'Vivek Jethva',
+      creatorName: 'Rahul Jayswal',
     },
     {
       imageUrl: 'TodoApp.png',
       projectTitle: 'Todo App',
       projectDescription: `Presenting my React Todo App! ✅🖥️ Developed to showcase my proficiency in React, this Todo App combines functionality and a clean user interface. Seamlessly managing tasks using state-of-the-art React components, this project demonstrates my skills in modern web development.`,
-      creatorLink:
-        'https://github.com/vivekhjtv/v_react/tree/main/07reactTodoContext', // Replace with actual creator's link
-      creatorName: 'Vivek Jethva',
+      creatorLink: 'https://todo-app-vivek-jethvas-projects.vercel.app/', // Replace with actual creator's link
+      creatorName: 'Gaurav Hariyani',
     },
     {
       imageUrl: 'Blog.png',
@@ -46,6 +45,13 @@ const ProjectSection = () => {
       creatorLink:
         'https://github.com/vivekhjtv/v_react/tree/main/13react-social-media-app', // Replace with actual creator's link
       creatorName: 'Vivek Jethva',
+    },
+    {
+      imageUrl: 'iscan.png',
+      projectTitle: 'iScan Hospital Website',
+      projectDescription: `I have create ISCAN hospital website for the easy use for people.`,
+      creatorLink: 'https://blog-story-react-e1r7.vercel.app/', // Replace with actual creator's link
+      creatorName: 'Smit Shah',
     },
     // Add other projects
   ];
